@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: gold;
+    text-align: center;
+    width: 85%;
+    padding: 12px;
+    border: 2px solid gold;
+    position:relative;
+    margin-top: 200px;
+    margin-left: 35px;
+    border-radius: 15px;
+}
+button{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid gold;
+    border-radius: 8px;
+    background: rgb(142, 10, 107);
+}
+button:hover{
+    background: rgb(233, 127, 6);
+}
